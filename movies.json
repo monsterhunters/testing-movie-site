@@ -1,0 +1,69 @@
+{
+    "movies": [
+      {
+        "title": "Sonic the Hedgehog 2",
+        "image": "./assets/images/movie-1.png",
+        "year": 2022,
+        "quality": "BSSG",
+        "duration": 122,
+        "rating": "www.google.com"
+      },
+      {
+        "title": "Morbius",
+        "image": "./assets/images/movie-2.png",
+        "year": 2022,
+        "quality": "BSSG VIP",
+        "duration": 104,
+        "rating": 5.9
+      },
+      {
+        "title": "Morbius",
+        "image": "./assets/images/movie-2.png",
+        "year": 2022,
+        "quality": "BSSG",
+        "duration": 104,
+        "rating": 5.9
+      },
+      {
+        "title": "Morbius",
+        "image": "./assets/images/movie-2.png",
+        "year": 2022,
+        "quality": "BSSG Beta",
+        "duration": 104,
+        "rating": 5.9
+      },
+      {
+        "title": "Sonic the Hedgehog 2",
+        "image": "./assets/images/movie-1.png",
+        "year": 2022,
+        "quality": "BSSG",
+        "duration": 122,
+        "rating": 7.8
+      },
+      {
+        "title": "Morbius",
+        "image": "./assets/images/movie-2.png",
+        "year": 2022,
+        "quality": "BSSG VIP",
+        "duration": 104,
+        "rating": 5.9
+      },
+      {
+        "title": "Morbius",
+        "image": "./assets/images/movie-2.png",
+        "year": 2022,
+        "quality": "BSSG",
+        "duration": 104,
+        "rating": 5.9
+      },
+      {
+        "title": "Morbius",
+        "image": "./assets/images/movie-2.png",
+        "year": 2022,
+        "quality": "BSSG Beta",
+        "duration": 104,
+        "rating": 5.9
+      }
+    ]
+  }
+  
